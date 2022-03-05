@@ -1,0 +1,22 @@
+body{
+    background-color:#638d96
+}
+a:visited {
+    color:#ffffff;
+}
+td {
+    color: #ffffff;
+    font-family: monospace;
+}
+#navbar {
+    background-color: #283f54;
+    border-style:solid;
+    border-color: rgb(255, 255, 255);
+    border-collapse: collapse;
+
+}
+#navbar th {
+    border-style: solid;
+    font-size: 20px;
+    font-family: monospace;
+}
